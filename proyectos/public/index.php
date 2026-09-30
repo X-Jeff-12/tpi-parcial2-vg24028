@@ -15,17 +15,9 @@ if(!isset($_SESSION["formulario"])){
 
 
 if($_SERVER['REQUEST_METHOD'] === "POST"){
-    
+
 
 }
-
-
-
-
-
-
-
-
 
 
 ?>
